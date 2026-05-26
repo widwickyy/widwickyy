@@ -1,7 +1,3 @@
-<!-- Header Image (Optional but recommended for a vibrant brand) -->
-<!-- Replace the src with a link to a colorful, custom banner (maybe something cozy/spring-themed!) -->
-<img src="https://via.placeholder.com/1200x300/FFB6C1/000000?text=Widwickyy+-+Technical+Game+Developer" alt="Widwickyy Banner" width="100%">
-
 <h1 align="center">Hi there, I'm Dicky (Widwickyy) 👋</h1>
 
 <h3 align="center">Unity Developer | Systems Architect | Crafting Immersive & Cozy Experiences</h3>
