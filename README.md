@@ -39,13 +39,3 @@
   <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Console" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
-
----
-
-### 📈 GitHub Stats
-
-<!-- These are dynamic badges. Replace 'widwickyy' with your actual exact GitHub username if it differs -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=widwickyy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Widwickyy's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=widwickyy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
