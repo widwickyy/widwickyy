@@ -14,7 +14,7 @@
 *   💻 **Focus areas:** Mobile development, team collaboration, code refactoring, and mentoring.
 *   ⚙️ **Deep diving into:** Unity DOTS/ECS, self-hosted CI/CD pipelines, and C# ASP.NET.
 *   🌱 **Learning:** Bridging game development with full-stack web technologies (Supabase, Vercel).
-*   📫 **How to reach me:** [Link to your personal website] | [Link to LinkedIn]
+*   📫 **How to reach me:** contact@widwickyy.net | https://www.linkedin.com/in/dickyddwi/
 
 ---
 
