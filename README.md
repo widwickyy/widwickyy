@@ -1,41 +1,92 @@
-<h1 align="center">Hi there, I'm Dicky (Widwickyy) 👋</h1>
+<h1 align="center">Hi there, I'm Widwickyy 👋</h1>
 
-<h3 align="center">Unity Developer | Systems Architect | Crafting Immersive & Cozy Experiences</h3>
+<h3 align="center">Game Programmer | Unity Developer</h3>
 
 <p align="center">
-  I specialize in technical game development, focusing on robust system architecture, clean code refactoring, and seamless mobile deployments. When I'm not optimizing Unity projects, I'm exploring web technologies to bridge the gap between game engines and backend services.
+  I build production-ready Unity systems for cross-platform games, focusing on gameplay architecture,
+  performance optimization, multiplayer networking, Firebase integration, and custom editor tooling.
+  Currently expanding my skills in C++ and .NET for deeper game systems and backend development.
+</p>
+
+<p align="center">
+  <a href="https://www.widwickyy.net">Portfolio</a> •
+  <a href="https://github.com/widwickyy">GitHub</a> •
+  <a href="mailto:contact@widwickyy.net">Email</a>
 </p>
 
 ---
 
-### 🚀 About Me
+## About Me
 
-*   🎮 **Currently building:** A cozy, spring-themed game and expanding my personal brand.
-*   💻 **Focus areas:** Mobile development, team collaboration, code refactoring, and mentoring.
-*   ⚙️ **Deep diving into:** Unity DOTS/ECS, self-hosted CI/CD pipelines, and C# ASP.NET.
-*   🌱 **Learning:** Bridging game development with full-stack web technologies (Supabase, Vercel).
-*   📫 **How to reach me:** contact@widwickyy.net
+- Game programmer focused on Unity, C#, gameplay systems, and scalable project architecture.
+- Experienced in building and maintaining mobile, WebGL, multiplayer, and cross-platform Unity projects.
+- Comfortable working with Firebase, REST APIs, Unity Addressables, IAP, Ads, analytics, and Git-based workflows.
+- Interested in clean code, modular systems, editor automation, and performance-focused development.
+- Currently learning C++ and .NET to strengthen my foundation in game systems and backend engineering.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## Tech Stack
 
-**Game Development & 3D**
-<p align="left">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C++" />
-</p>
+### Programming Languages
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Web & Backend Technologies**
-<p align="left">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unity WebGL](https://img.shields.io/badge/Unity%20WebGL-222222?style=for-the-badge&logo=unity&logoColor=white)
+![Photon](https://img.shields.io/badge/Photon-004480?style=for-the-badge)
+![FishNet](https://img.shields.io/badge/FishNet-2F80ED?style=for-the-badge)
 
-**Infrastructure & Workflows**
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Console" />
-</p>
+### Backend & Services
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Publishing & Workflow
+![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
+
+## Featured Projects
+
+### Mystic Words
+Professional Unity mobile word puzzle project developed by Bumi Studio.
+
+My work focused on gameplay systems, player progression architecture, Firebase integration, monetization,
+Addressables migration, editor tooling, and performance optimization for low-end Android devices.
+
+**Tech:** Unity, C#, Firebase, Addressables, ScriptableObject, DOTween, Google AdMob, Unity IAP  
+**Playstore:** https://play.google.com/store/apps/details?id=com.bumistudio.mysticwords  
+**More details:** https://www.widwickyy.net/project/mystic-words
+
+---
+
+### Unity Scene Switcher
+A custom Unity Editor package for quickly switching between scenes inside the Unity Editor.
+
+Built as an Editor-only tool using UnityEditor APIs and EditorSceneManager, keeping runtime builds clean while improving daily development workflow.
+
+**Tech:** Unity, C#, Unity Editor Scripting, Unity Package Manager  
+**Source:** https://github.com/widwickyy/UnityPackage-Scene-Switcher  
+**More details:** https://www.widwickyy.net/project/unity-scene-switcher
+
+---
+
+## Current Focus
+
+- Improving Unity gameplay architecture and maintainability.
+- Building reusable editor tools for faster development workflows.
+- Learning C++ for deeper game systems knowledge.
+- Learning .NET to connect game development with backend engineering.
+
+---
+
+## Contact
+
+- Portfolio: https://www.widwickyy.net
+- Email: contact@widwickyy.net
+- GitHub: https://github.com/widwickyy
